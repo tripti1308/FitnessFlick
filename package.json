@@ -2,7 +2,6 @@
   "name": "fitness_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tripti1308.github.io/FitnessFlick/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -17,8 +16,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
