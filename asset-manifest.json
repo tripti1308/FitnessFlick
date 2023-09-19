@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FitnessFlick/static/css/main.65ecbeee.css",
+    "main.js": "/FitnessFlick/static/js/main.00e3d4f0.js",
+    "static/media/banner.png": "/FitnessFlick/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/FitnessFlick/static/media/gym.b3f7e64079668dfe837a.png",
+    "static/media/Logo-1.png": "/FitnessFlick/static/media/Logo-1.ac8beb40952cdb30a2b7.png",
+    "static/media/Logo.png": "/FitnessFlick/static/media/Logo.ac8beb40952cdb30a2b7.png",
+    "index.html": "/FitnessFlick/index.html",
+    "main.65ecbeee.css.map": "/FitnessFlick/static/css/main.65ecbeee.css.map",
+    "main.00e3d4f0.js.map": "/FitnessFlick/static/js/main.00e3d4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ecbeee.css",
+    "static/js/main.00e3d4f0.js"
+  ]
+}
